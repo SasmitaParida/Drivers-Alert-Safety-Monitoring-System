@@ -1,0 +1,5 @@
+download tesseract : https://github.com/UB-Mannheim/tesseract/wiki
+
+install dlib:
+fist install cmake
+https://www.youtube.com/watch?v=-pZEDxDRyGQ
